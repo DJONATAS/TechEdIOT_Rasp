@@ -12,6 +12,7 @@ using System.Threading;
 using System.Threading.Tasks;
 
 // The Background Application template is documented at http://go.microsoft.com/fwlink/?LinkID=533884&clcid=0x409
+// https://ms-iot.github.io/content/en-US/win10/samples/PinMappingsRPi2.htm
 
 namespace TechEd
 {
